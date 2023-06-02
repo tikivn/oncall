@@ -26,7 +26,7 @@ setuptools.setup(
         'streql',
         'webassets',
         'beaker',
-        'cryptography==2.3',
+        'cryptography==41.0.0',
         'python-ldap',
         'pytz',
         'irisclient',
